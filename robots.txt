@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /offline.html
+Disallow: /privacy.html
+Disallow: /terms.html
+
+Sitemap: https://remote.stlucia.studio/sitemap.xml
